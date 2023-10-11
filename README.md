@@ -26,7 +26,7 @@ I'm a software engineer with a love for backend web development. I'm currently w
     <td align="center">
         <h3>💫 Fun Facts</h3>
         <p>☕️ <strong>JavaScript</strong> was my the first programming language I learned!</p>
-        <p>🎸 When I'm not coding, you'll likely find me playing music. I'm currently learning <strong>Bass Guitar</strong>.</p>
+        <p>🚴🏾 When I'm not coding, you'll likely find me cycling.</p>
         <br/>
     </td>
     <td align="center">
