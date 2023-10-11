@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Bree Hall Github Banner](Img/Stephen Karanja.mp4)
+![Bree Hall Github Banner](Img/Stephen Karanja.png)
 
 
 
