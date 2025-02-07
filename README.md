@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-I'm a software engineer with a love for backend web development. I'm currently working with React and Flask a Python framework to create easy-to-use and beautiful web apps.
+I'm a software engineer with a love for backend web development. I'm currently working with Django a Python framework to create easy-to-use and beautiful web apps.
 
 <table>
   <tr>
